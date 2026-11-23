@@ -111,7 +111,7 @@ final hubConfig = HubConfig(
   ],
   starters: ['oyun-sessiz-sinema', 'oyun-aile-bilgi-yarismasi', 'oyun-casus-kim'],
   covers: const {
-    'oyun-aile-bilgi-yarismasi': GameCover('quizc'),
+    'oyun-aile-bilgi-yarismasi': GameCover('famquizc'),
     'oyun-ben-kimim': GameCover('foreheadc'),
     'oyun-casus-kim': GameCover('spyc'),
     'oyun-cevir-bakalim': GameCover('spinc'),
