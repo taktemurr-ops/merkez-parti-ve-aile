@@ -10,6 +10,8 @@ void main() {
       'oyun-ciz-tahmin',
       'oyun-ben-kimim',
       'oyun-emoji-ipucu',
+      'oyun-kirik-kalem',
+      'oyun-isi-olcer',
       'oyun-koylu-vampir',
       'oyun-casus-kim',
       'oyun-aile-bilgi-yarismasi',

@@ -9,7 +9,9 @@ import 'package:oyun_emoji_hikaye/oyun_emoji_hikaye.dart';
 import 'package:oyun_emoji_ipucu/oyun_emoji_ipucu.dart';
 import 'package:oyun_hafiza_zinciri/oyun_hafiza_zinciri.dart';
 import 'package:oyun_hizli_parmak/oyun_hizli_parmak.dart';
+import 'package:oyun_isi_olcer/oyun_isi_olcer.dart';
 import 'package:oyun_isim_sehir/oyun_isim_sehir.dart';
+import 'package:oyun_kirik_kalem/oyun_kirik_kalem.dart';
 import 'package:oyun_koylu_vampir/oyun_koylu_vampir.dart';
 import 'package:oyun_sessiz_sinema/oyun_sessiz_sinema.dart';
 import 'package:oyun_skor_tahtasi/oyun_skor_tahtasi.dart';
@@ -98,6 +100,8 @@ final hubConfig = HubConfig(
     cizTahminConfig,
     benKimimConfig,
     emojiIpucuConfig,
+    kirikKalemConfig,
+    isiOlcerConfig,
     koyluVampirConfig,
     casusKimConfig,
     aileBilgiConfig,
@@ -121,7 +125,9 @@ final hubConfig = HubConfig(
     'oyun-emoji-ipucu': GameCover('cluec'),
     'oyun-hafiza-zinciri': GameCover('chainc'),
     'oyun-hizli-parmak': GameCover('reflexc'),
+    'oyun-isi-olcer': GameCover('heatdialc'),
     'oyun-isim-sehir': GameCover('namecityc'),
+    'oyun-kirik-kalem': GameCover('brokenpenc'),
     'oyun-koylu-vampir': GameCover('vampc'),
     'oyun-sessiz-sinema': GameCover('mimec'),
     'oyun-skor-tahtasi': GameCover('scorec'),
@@ -165,7 +171,7 @@ final hubConfig = HubConfig(
           'Mô tả và đoán',
           'Ilarawan at hulaan',
         ],
-        ids: ['oyun-yasakli-kelime', 'oyun-sessiz-sinema', 'oyun-ciz-tahmin', 'oyun-ben-kimim', 'oyun-emoji-ipucu']),
+        ids: ['oyun-yasakli-kelime', 'oyun-sessiz-sinema', 'oyun-ciz-tahmin', 'oyun-ben-kimim', 'oyun-emoji-ipucu', 'oyun-kirik-kalem', 'oyun-isi-olcer']),
     HubSection(
         title: [
           'Gizli roller',

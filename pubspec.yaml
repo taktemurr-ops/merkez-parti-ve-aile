@@ -18,63 +18,71 @@ dependencies:
   oyun_yasakli_kelime:
     git:
       url: https://github.com/taktemurr-ops/oyun-yasakli-kelime
-      ref: 92c7f98ced1e7ff1bcebcc320af81c4dfbe99e70
+      ref: 990efadd2fba52deafaa3181e5401565796d4b3c
   oyun_sessiz_sinema:
     git:
       url: https://github.com/taktemurr-ops/oyun-sessiz-sinema
-      ref: 4a14402d6a73be0d4b63c2bbfa87e111c93b3f07
+      ref: 0a18cca81377c22b43b326f8af6cf79ebf89b1a6
   oyun_ciz_tahmin:
     git:
       url: https://github.com/taktemurr-ops/oyun-ciz-tahmin
-      ref: 12eaec6db88d657db12d21e864aba017406c2af1
+      ref: fc12cc47413776eb976eccf7912a4ee7783693df
   oyun_ben_kimim:
     git:
       url: https://github.com/taktemurr-ops/oyun-ben-kimim
-      ref: 87e4a292cd90e33541f5f6f34a3364231d06bc16
+      ref: a0a35c5334301cef47c203d6f9e93dfbf910c240
   oyun_emoji_ipucu:
     git:
       url: https://github.com/taktemurr-ops/oyun-emoji-ipucu
-      ref: f984212dcef62c720e6a77427afac1f49c0a7132
+      ref: e205d1f612a3c1dcc2cd3b3a4b0faf26374456b9
+  oyun_kirik_kalem:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kirik-kalem
+      ref: c34abe6028a51d207d40e60f261cad5dd7a1327a
+  oyun_isi_olcer:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-isi-olcer
+      ref: 1451ec92c69d700e185216b5af7ec56df6fa654d
   oyun_koylu_vampir:
     git:
       url: https://github.com/taktemurr-ops/oyun-koylu-vampir
-      ref: 7ff608a0e902d9691db55d0a26d22c8c4874579a
+      ref: ce0a54a95e8c5f231bc0af46a58cbc86489489a7
   oyun_casus_kim:
     git:
       url: https://github.com/taktemurr-ops/oyun-casus-kim
-      ref: e102c226698eca6ff78915122c1d3021524cd6e7
+      ref: dce7a546df9fc6de088ba5be1a6bacb4fdecf76f
   oyun_aile_bilgi_yarismasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-aile-bilgi-yarismasi
-      ref: ab2520d5a25863db60b7025f0f34ee8b5099f6c1
+      ref: c69eb9040bdbbb3ab1775423f2e94c2229593049
   oyun_hizli_parmak:
     git:
       url: https://github.com/taktemurr-ops/oyun-hizli-parmak
-      ref: ec1507f7d9d670742de29012029696d011e358e7
+      ref: cce2c61d37eaaadcc5a1d451404d490abb8ceee0
   oyun_hafiza_zinciri:
     git:
       url: https://github.com/taktemurr-ops/oyun-hafiza-zinciri
-      ref: 96aed78f226a8e008f6a396eb4ca68a59dd868dc
+      ref: 3ee69c407822fcb9492b863b332317edef04a1ed
   oyun_isim_sehir:
     git:
       url: https://github.com/taktemurr-ops/oyun-isim-sehir
-      ref: e9257a5c4fb8aaf229ca17a6626d0205714a2e2c
+      ref: cb89385a9bf3e0700c6f0a36d97cb051501bd8f2
   oyun_dogruluk_cesaret:
     git:
       url: https://github.com/taktemurr-ops/oyun-dogruluk-cesaret
-      ref: 1e805bba37bcff912e9a3c11caee262422252df2
+      ref: 7a9ef29e858d5fea28ca337284660d181d690941
   oyun_cevir_bakalim:
     git:
       url: https://github.com/taktemurr-ops/oyun-cevir-bakalim
-      ref: 8af4f19576ce4148ea98fa775bb1a833e692ebeb
+      ref: 7bb47bc6e72543e62b46a60bc85a5ce220088b0e
   oyun_emoji_hikaye:
     git:
       url: https://github.com/taktemurr-ops/oyun-emoji-hikaye
-      ref: baebd8ca0bff4bb8b75b851e101882808bb597c4
+      ref: d30c6c337481a2832f958e878646d24a426a2a65
   oyun_skor_tahtasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-skor-tahtasi
-      ref: adb00c64a8950653fc99ed22e4f4d11e89666954
+      ref: 5f2f3669947e664032428b9c4c40bde25a628dd9
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -92,7 +100,7 @@ dependency_overrides:
   parti_motoru:
     git:
       url: https://github.com/taktemurr-ops/parti-motoru
-      ref: e7c5dccd53d7dcb374d639c28cde4ffd77c1dd76
+      ref: 2b74679743724c2ef011739345e98b9d811edcee
 
 dev_dependencies:
   flutter_test:

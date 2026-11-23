@@ -1,6 +1,6 @@
 # Parti ve Aile · Party and Family (merkez-parti-ve-aile)
 
-Parti ve Aile ailesinin **merkez uygulaması**: aynı telefonda sırayla oynanan 15 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [parti-motoru](https://github.com/taktemurr-ops/parti-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Ortak lobi: oyuncu adları, takımlar, süre, yaş paketi (çocuk / aile / herkes) ve kendi kelimeler.
+Parti ve Aile ailesinin **merkez uygulaması**: aynı telefonda sırayla oynanan 17 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [parti-motoru](https://github.com/taktemurr-ops/parti-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Ortak lobi: oyuncu adları, takımlar, süre, yaş paketi (çocuk / aile / herkes) ve kendi kelimeler.
 
 | Oyun | Depo |
 |---|---|
@@ -9,6 +9,8 @@ Parti ve Aile ailesinin **merkez uygulaması**: aynı telefonda sırayla oynanan
 | Çiz ve Tahmin Et | [oyun-ciz-tahmin](https://github.com/taktemurr-ops/oyun-ciz-tahmin) |
 | Ben Kimim? | [oyun-ben-kimim](https://github.com/taktemurr-ops/oyun-ben-kimim) |
 | Emoji İpucu | [oyun-emoji-ipucu](https://github.com/taktemurr-ops/oyun-emoji-ipucu) |
+| Kırık Kalem | [oyun-kirik-kalem](https://github.com/taktemurr-ops/oyun-kirik-kalem) |
+| Isı Ölçer | [oyun-isi-olcer](https://github.com/taktemurr-ops/oyun-isi-olcer) |
 | Köylü ve Vampir | [oyun-koylu-vampir](https://github.com/taktemurr-ops/oyun-koylu-vampir) |
 | Casus Kim? | [oyun-casus-kim](https://github.com/taktemurr-ops/oyun-casus-kim) |
 | Aile Bilgi Yarışması | [oyun-aile-bilgi-yarismasi](https://github.com/taktemurr-ops/oyun-aile-bilgi-yarismasi) |
