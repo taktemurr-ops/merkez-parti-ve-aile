@@ -1,0 +1,134 @@
+name: merkez_parti_ve_aile
+description: "Parti ve Aile merkez uygulaması. Offline-first Flutter game for Android, iOS and Web."
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Ortak çekirdek: https://github.com/taktemurr-ops/studio-core
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 921df6392b2121ffd438a286673ef9f10c988273
+  # Merkezdeki oyunlar (her biri kendi deposunda)
+  oyun_yasakli_kelime:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-yasakli-kelime
+      ref: main
+  oyun_sessiz_sinema:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-sessiz-sinema
+      ref: main
+  oyun_ciz_tahmin:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-ciz-tahmin
+      ref: main
+  oyun_ben_kimim:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-ben-kimim
+      ref: main
+  oyun_emoji_ipucu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-emoji-ipucu
+      ref: main
+  oyun_koylu_vampir:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-koylu-vampir
+      ref: main
+  oyun_casus_kim:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-casus-kim
+      ref: main
+  oyun_aile_bilgi_yarismasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-aile-bilgi-yarismasi
+      ref: main
+  oyun_hizli_parmak:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hizli-parmak
+      ref: main
+  oyun_hafiza_zinciri:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hafiza-zinciri
+      ref: main
+  oyun_isim_sehir:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-isim-sehir
+      ref: main
+  oyun_dogruluk_cesaret:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dogruluk-cesaret
+      ref: main
+  oyun_cevir_bakalim:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-cevir-bakalim
+      ref: main
+  oyun_emoji_hikaye:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-emoji-hikaye
+      ref: main
+  oyun_skor_tahtasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-skor-tahtasi
+      ref: main
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.5.0
+  google_mobile_ads: ^9.2.0
+  in_app_purchase: ^3.2.0
+
+dependency_overrides:
+  # Tüm oyunlar aynı çekirdek ve motor sürümlerini kullansın.
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 921df6392b2121ffd438a286673ef9f10c988273
+  parti_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/parti-motoru
+      ref: main
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sfx/
+    - assets/config/
+    - assets/branding/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/branding/icon.png
+  adaptive_icon_background: "#1F2A44"
+  adaptive_icon_foreground: assets/branding/icon_foreground.png
+  web:
+    generate: true
+    image_path: assets/branding/icon.png
+    background_color: "#1F2A44"
+    theme_color: "#1F2A44"
+
+flutter_native_splash:
+  color: "#1F2A44"
+  image: assets/branding/splash.png
+  android_12:
+    color: "#1F2A44"
+    image: assets/branding/splash_android12.png
+  web: true
