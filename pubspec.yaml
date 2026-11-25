@@ -46,15 +46,15 @@ dependencies:
   oyun_bomba_kelime:
     git:
       url: https://github.com/taktemurr-ops/oyun-bomba-kelime
-      ref: main
+      ref: 0fc0c717b008af205e60b45e1065d1ac789ca24f
   oyun_bes_saniye:
     git:
       url: https://github.com/taktemurr-ops/oyun-bes-saniye
-      ref: main
+      ref: 585a92890f9c54d216d739fe4dc4a04a91580d23
   oyun_kim_en_cok:
     git:
       url: https://github.com/taktemurr-ops/oyun-kim-en-cok
-      ref: main
+      ref: d6e978b0d50305d703c60ffe239baf5164b00c3d
   oyun_koylu_vampir:
     git:
       url: https://github.com/taktemurr-ops/oyun-koylu-vampir
@@ -112,7 +112,7 @@ dependency_overrides:
   parti_motoru:
     git:
       url: https://github.com/taktemurr-ops/parti-motoru
-      ref: 414a10485f86960d10cc49b1c347ba1ec22ef098
+      ref: 3492051b33d632b8992d6c2aaa0588f2bf4815f0
 
 dev_dependencies:
   flutter_test:
