@@ -13,76 +13,76 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 782e05b0d67b349f0af0cfe9e39b2e2a81228d20
+      ref: 03712efb1978a621943ed9b91d98e4fcad629898
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_yasakli_kelime:
     git:
       url: https://github.com/taktemurr-ops/oyun-yasakli-kelime
-      ref: 990efadd2fba52deafaa3181e5401565796d4b3c
+      ref: ba7d1d77244d49ee22993f174ec26d87caeacea7
   oyun_sessiz_sinema:
     git:
       url: https://github.com/taktemurr-ops/oyun-sessiz-sinema
-      ref: 0a18cca81377c22b43b326f8af6cf79ebf89b1a6
+      ref: ca835aaa454b71a52846ecd53c4576a79114ba14
   oyun_ciz_tahmin:
     git:
       url: https://github.com/taktemurr-ops/oyun-ciz-tahmin
-      ref: fc12cc47413776eb976eccf7912a4ee7783693df
+      ref: 945cf1976b552d8fab8530c48f0d54843ba03bce
   oyun_ben_kimim:
     git:
       url: https://github.com/taktemurr-ops/oyun-ben-kimim
-      ref: a0a35c5334301cef47c203d6f9e93dfbf910c240
+      ref: 7c4fa8d2722f0c96a133cb3e4c1d811c45941ad3
   oyun_emoji_ipucu:
     git:
       url: https://github.com/taktemurr-ops/oyun-emoji-ipucu
-      ref: e205d1f612a3c1dcc2cd3b3a4b0faf26374456b9
+      ref: a97516f4b83f3840e6511258f599e49304ffd80c
   oyun_kirik_kalem:
     git:
       url: https://github.com/taktemurr-ops/oyun-kirik-kalem
-      ref: c34abe6028a51d207d40e60f261cad5dd7a1327a
+      ref: 1cf3e223448067410f17c68430b3134410eefc6b
   oyun_isi_olcer:
     git:
       url: https://github.com/taktemurr-ops/oyun-isi-olcer
-      ref: 1451ec92c69d700e185216b5af7ec56df6fa654d
+      ref: e57eb18586fc8cb077931a58e9547181faea1b7a
   oyun_koylu_vampir:
     git:
       url: https://github.com/taktemurr-ops/oyun-koylu-vampir
-      ref: ce0a54a95e8c5f231bc0af46a58cbc86489489a7
+      ref: e685272de5128049ce139bbe790e02c61139cfeb
   oyun_casus_kim:
     git:
       url: https://github.com/taktemurr-ops/oyun-casus-kim
-      ref: dce7a546df9fc6de088ba5be1a6bacb4fdecf76f
+      ref: 1da8153ff2e1dde5cf0077dd75eef05f6eaa0181
   oyun_aile_bilgi_yarismasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-aile-bilgi-yarismasi
-      ref: c69eb9040bdbbb3ab1775423f2e94c2229593049
+      ref: 9af10998440ed8b6ec44f7269305fb9ba3ac4a61
   oyun_hizli_parmak:
     git:
       url: https://github.com/taktemurr-ops/oyun-hizli-parmak
-      ref: cce2c61d37eaaadcc5a1d451404d490abb8ceee0
+      ref: 91fea41a8624d251d19d25ce2dbb292e34adbb14
   oyun_hafiza_zinciri:
     git:
       url: https://github.com/taktemurr-ops/oyun-hafiza-zinciri
-      ref: 3ee69c407822fcb9492b863b332317edef04a1ed
+      ref: 3ba5253f6a79f232438b353b62bd7714ef054412
   oyun_isim_sehir:
     git:
       url: https://github.com/taktemurr-ops/oyun-isim-sehir
-      ref: cb89385a9bf3e0700c6f0a36d97cb051501bd8f2
+      ref: 1c7167623622444fcb6862a9cb929091f5783f28
   oyun_dogruluk_cesaret:
     git:
       url: https://github.com/taktemurr-ops/oyun-dogruluk-cesaret
-      ref: 7a9ef29e858d5fea28ca337284660d181d690941
+      ref: 3bc0895cbf45cf5e561ba34743afc7af8a5557c3
   oyun_cevir_bakalim:
     git:
       url: https://github.com/taktemurr-ops/oyun-cevir-bakalim
-      ref: 7bb47bc6e72543e62b46a60bc85a5ce220088b0e
+      ref: f14939a5fbc1b0dd9a4e9106797f9b34a4bffa26
   oyun_emoji_hikaye:
     git:
       url: https://github.com/taktemurr-ops/oyun-emoji-hikaye
-      ref: d30c6c337481a2832f958e878646d24a426a2a65
+      ref: 5901e0a0c4a800763eadb4cbe253c3f4d997ab18
   oyun_skor_tahtasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-skor-tahtasi
-      ref: 5f2f3669947e664032428b9c4c40bde25a628dd9
+      ref: 1e0e0ba9b5af7e8472003c144a410550ff9aa619
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -96,11 +96,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 782e05b0d67b349f0af0cfe9e39b2e2a81228d20
+      ref: 03712efb1978a621943ed9b91d98e4fcad629898
   parti_motoru:
     git:
       url: https://github.com/taktemurr-ops/parti-motoru
-      ref: 2b74679743724c2ef011739345e98b9d811edcee
+      ref: 414a10485f86960d10cc49b1c347ba1ec22ef098
 
 dev_dependencies:
   flutter_test:
