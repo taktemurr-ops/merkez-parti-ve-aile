@@ -1,6 +1,6 @@
 # Parti ve Aile · Party and Family (merkez-parti-ve-aile)
 
-Parti ve Aile ailesinin **merkez uygulaması**: aynı telefonda sırayla oynanan 17 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [parti-motoru](https://github.com/taktemurr-ops/parti-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Ortak lobi: oyuncu adları, takımlar, süre, yaş paketi (çocuk / aile / herkes) ve kendi kelimeler.
+Parti ve Aile ailesinin **merkez uygulaması**: aynı telefonda sırayla oynanan 20 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [parti-motoru](https://github.com/taktemurr-ops/parti-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Ortak lobi: oyuncu adları, takımlar, süre, yaş paketi (çocuk / aile / herkes) ve kendi kelimeler.
 
 | Oyun | Depo |
 |---|---|
@@ -15,10 +15,13 @@ Parti ve Aile ailesinin **merkez uygulaması**: aynı telefonda sırayla oynanan
 | Casus Kim? | [oyun-casus-kim](https://github.com/taktemurr-ops/oyun-casus-kim) |
 | Aile Bilgi Yarışması | [oyun-aile-bilgi-yarismasi](https://github.com/taktemurr-ops/oyun-aile-bilgi-yarismasi) |
 | Hızlı Parmak | [oyun-hizli-parmak](https://github.com/taktemurr-ops/oyun-hizli-parmak) |
+| Kelime Bombası | [oyun-bomba-kelime](https://github.com/taktemurr-ops/oyun-bomba-kelime) |
+| Beş Saniyede Üç | [oyun-bes-saniye](https://github.com/taktemurr-ops/oyun-bes-saniye) |
 | Hafıza Zinciri | [oyun-hafiza-zinciri](https://github.com/taktemurr-ops/oyun-hafiza-zinciri) |
 | İsim Şehir | [oyun-isim-sehir](https://github.com/taktemurr-ops/oyun-isim-sehir) |
 | Doğruluk mu Görev mi | [oyun-dogruluk-cesaret](https://github.com/taktemurr-ops/oyun-dogruluk-cesaret) |
 | Çevir Bakalım | [oyun-cevir-bakalim](https://github.com/taktemurr-ops/oyun-cevir-bakalim) |
+| Kim En Çok? | [oyun-kim-en-cok](https://github.com/taktemurr-ops/oyun-kim-en-cok) |
 | Emoji Hikâye | [oyun-emoji-hikaye](https://github.com/taktemurr-ops/oyun-emoji-hikaye) |
 | Skor Tahtası | [oyun-skor-tahtasi](https://github.com/taktemurr-ops/oyun-skor-tahtasi) |
 

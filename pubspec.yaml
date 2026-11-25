@@ -43,6 +43,18 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-isi-olcer
       ref: e57eb18586fc8cb077931a58e9547181faea1b7a
+  oyun_bomba_kelime:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-bomba-kelime
+      ref: main
+  oyun_bes_saniye:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-bes-saniye
+      ref: main
+  oyun_kim_en_cok:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kim-en-cok
+      ref: main
   oyun_koylu_vampir:
     git:
       url: https://github.com/taktemurr-ops/oyun-koylu-vampir

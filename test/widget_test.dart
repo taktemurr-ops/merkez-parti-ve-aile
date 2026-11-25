@@ -16,10 +16,13 @@ void main() {
       'oyun-casus-kim',
       'oyun-aile-bilgi-yarismasi',
       'oyun-hizli-parmak',
+      'oyun-bomba-kelime',
+      'oyun-bes-saniye',
       'oyun-hafiza-zinciri',
       'oyun-isim-sehir',
       'oyun-dogruluk-cesaret',
       'oyun-cevir-bakalim',
+      'oyun-kim-en-cok',
       'oyun-emoji-hikaye',
       'oyun-skor-tahtasi',
     ]);

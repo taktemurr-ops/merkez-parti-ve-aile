@@ -1,9 +1,9 @@
-A Buli és Család 17 játékot gyűjt egy appba, és mindet egyetlen körbeadott telefonnal játsszátok. A csapatok a Tiltott Szavakban, a Némafilmben, a Ki vagyok?-ban és a Rajzolj és Találd kiben versenyeznek; a Falusiak és Vámpírok meg a Ki a Kém? titkos szerepekkel tüzeli az asztalt; a Családi Kvíz és a Fürge Ujjak négy játékost ültet egy képernyő köré. Neveket, csapatokat, időt, korosztályt és saját szavakat a váróban választhatsz.
+A Buli és Család 20 játékot gyűjt egy appba, és mindet egyetlen körbeadott telefonnal játsszátok. A csapatok a Tiltott Szavakban, a Némafilmben, a Ki vagyok?-ban és a Rajzolj és Találd kiben versenyeznek; a Falusiak és Vámpírok meg a Ki a Kém? titkos szerepekkel tüzeli az asztalt; a Családi Kvíz és a Fürge Ujjak négy játékost ültet egy képernyő köré. Neveket, csapatokat, időt, korosztályt és saját szavakat a váróban választhatsz.
 
 • Magyarázz és tippelj: Tiltott Szavak, Némafilm, Rajzolj és Találd ki, Ki vagyok?, Emoji Nyomok, Törött Ceruza, Hőmérő
 • Titkos szerepek: Falusiak és Vámpírok, Ki a Kém?
-• Verseny egy képernyőn: Családi Kvíz, Fürge Ujjak, Memórialánc, Ország-Város
-• Beszélgetés és mesék: Felelsz vagy Feladat, Pörgesd a Nyilat, Emoji Mesék
+• Verseny egy képernyőn: Családi Kvíz, Fürge Ujjak, Szóbomba, Hármat Ötre, Memórialánc, Ország-Város
+• Beszélgetés és mesék: Felelsz vagy Feladat, Pörgesd a Nyilat, Ki a legvalószínűbb?, Emoji Mesék
 • Asztali segéd: Pontszámláló
 
 Kiemelt

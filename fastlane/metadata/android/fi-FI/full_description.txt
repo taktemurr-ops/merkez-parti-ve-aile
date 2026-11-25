@@ -1,9 +1,9 @@
-Juhlat ja Perhe kokoaa 17 peliä yhteen sovellukseen, ja kaikkia pelataan yhtä puhelinta kierrättämällä. Joukkueet kisaavat Kielletyissä Sanoissa, Mykkäelokuvassa, Kuka minä olen? -pelissä ja Piirrä ja Arvaa -pelissä; Kyläläiset ja Vampyyrit sekä Kuka on Vakooja? lämmittävät pöydän salaisilla rooleilla; Perhevisa ja Nopeat Sormet tuovat neljä pelaajaa saman näytön ääreen. Nimet, joukkueet, aika, ikäpakkaus ja omat sanat valitaan aulassa.
+Juhlat ja Perhe kokoaa 20 peliä yhteen sovellukseen, ja kaikkia pelataan yhtä puhelinta kierrättämällä. Joukkueet kisaavat Kielletyissä Sanoissa, Mykkäelokuvassa, Kuka minä olen? -pelissä ja Piirrä ja Arvaa -pelissä; Kyläläiset ja Vampyyrit sekä Kuka on Vakooja? lämmittävät pöydän salaisilla rooleilla; Perhevisa ja Nopeat Sormet tuovat neljä pelaajaa saman näytön ääreen. Nimet, joukkueet, aika, ikäpakkaus ja omat sanat valitaan aulassa.
 
 • Selitä ja arvaa: Kielletyt Sanat, Mykkäelokuva, Piirrä ja Arvaa, Kuka minä olen?, Emoji-vihjeet, Katkennut Kynä, Lämpömittari
 • Salaiset roolit: Kyläläiset ja Vampyyrit, Kuka on Vakooja?
-• Kisa yhdellä näytöllä: Perhevisa, Nopeat Sormet, Muistiketju, Kaupunki Nimi
-• Juttua ja tarinoita: Totuus vai Tehtävä, Pyöräytä Nuolta, Emoji-tarinat
+• Kisa yhdellä näytöllä: Perhevisa, Nopeat Sormet, Sanapommi, Kolme Viidessä, Muistiketju, Kaupunki Nimi
+• Juttua ja tarinoita: Totuus vai Tehtävä, Pyöräytä Nuolta, Kuka todennäköisimmin?, Emoji-tarinat
 • Pöytäapuri: Pistetaulu
 
 Kohokohdat
