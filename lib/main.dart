@@ -16,7 +16,10 @@ import 'package:oyun_koylu_vampir/oyun_koylu_vampir.dart';
 import 'package:oyun_sessiz_sinema/oyun_sessiz_sinema.dart';
 import 'package:oyun_skor_tahtasi/oyun_skor_tahtasi.dart';
 import 'package:oyun_yasakli_kelime/oyun_yasakli_kelime.dart';
+import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
+
+import 'approved_style.dart';
 
 /// Parti ve Aile: aynı telefonda sırayla oynanan anlatım, çizim, gizli rol,
 /// bilgi ve refleks oyunlarını tek uygulamada toplar. Her oyunun kaydı ayrıdır.
@@ -323,4 +326,4 @@ final hubConfig = HubConfig(
   ],
 );
 
-void main() => bootstrapHub(hubConfig);
+void main() => bootstrapApprovedHub(hubConfig, approvedStyle);

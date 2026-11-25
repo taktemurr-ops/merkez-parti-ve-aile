@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 05acd1e648dcb04c962281272f3fb806fc9ccc99
+      ref: 782e05b0d67b349f0af0cfe9e39b2e2a81228d20
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_yasakli_kelime:
     git:
@@ -96,7 +96,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 05acd1e648dcb04c962281272f3fb806fc9ccc99
+      ref: 782e05b0d67b349f0af0cfe9e39b2e2a81228d20
   parti_motoru:
     git:
       url: https://github.com/taktemurr-ops/parti-motoru
@@ -116,6 +116,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
+    - assets/approved/
     - assets/sfx/
     - assets/config/
     - assets/branding/
