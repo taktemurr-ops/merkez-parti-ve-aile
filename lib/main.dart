@@ -23,6 +23,7 @@ import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
 
 import 'approved_style.dart';
+import 'store_flavor.dart';
 
 /// Parti ve Aile: aynı telefonda sırayla oynanan anlatım, çizim, gizli rol,
 /// bilgi ve refleks oyunlarını tek uygulamada toplar. Her oyunun kaydı ayrıdır.
@@ -338,4 +339,7 @@ final hubConfig = HubConfig(
 /// Uygulama içi gizlilik politikası (Ayarlar → Gizlilik politikası). Mağaza kayıtlarında da aynı adres.
 const privacyUrl = 'https://github.com/taktemurr-ops/merkez-parti-ve-aile/blob/main/PRIVACY.md';
 
-void main() => bootstrapApprovedHub(hubConfig, approvedStyle, privacyUrl: privacyUrl);
+void main() {
+  registerStoreFlavor();
+  bootstrapApprovedHub(hubConfig, approvedStyle, privacyUrl: privacyUrl);
+}
