@@ -8,7 +8,7 @@ const approvedStyle = ApprovedHubStyle(
   card: Color(0xFF8E2A86),
   play: Color(0xFFFF8A2E),
   number: Color(0xFFFFD84A),
-  blocks: [ApprovedBlock.chips, ApprovedBlock.featured, ApprovedBlock.weeklyQuest],
+  blocks: [ApprovedBlock.chips, ApprovedBlock.tournament, ApprovedBlock.featured, ApprovedBlock.weeklyQuest],
   featuredKey: 'featured',
   featured: ['oyun-isim-sehir', 'oyun-sessiz-sinema', 'oyun-casus-kim'],
 );

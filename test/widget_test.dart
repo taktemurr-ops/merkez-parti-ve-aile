@@ -1,5 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
+import 'package:merkez_parti_ve_aile/approved_style.dart';
 import 'package:merkez_parti_ve_aile/main.dart';
+import 'package:studio_core/app/approved_hub.dart';
 
 void main() {
   test('merkezde oyunlar benzersiz kimlikle yer alıyor', () {
@@ -44,5 +46,10 @@ void main() {
     for (final s in hubConfig.sections) {
       expect(s.title.length, 33);
     }
+  });
+
+  test('Aile Turnuvası: ana sayfada ve menüde, birlikte ve sırayla oynanan oyunlar', () {
+    expect(approvedStyle.blocks, contains(ApprovedBlock.tournament));
+    expect(hubConfig.allGames.length, greaterThanOrEqualTo(2));
   });
 }

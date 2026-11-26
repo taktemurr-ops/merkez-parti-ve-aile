@@ -2,6 +2,10 @@
 
 Parti ve Aile ailesinin **merkez uygulaması**: aynı telefonda sırayla oynanan 20 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [parti-motoru](https://github.com/taktemurr-ops/parti-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Ortak lobi: oyuncu adları, takımlar, süre, yaş paketi (çocuk / aile / herkes) ve kendi kelimeler.
 
+## Aile Turnuvası
+
+Menüdeki **Aile Turnuvası** (Parti ve Aile merkezinde ana sayfada da): aynı cihazda 2–8 kişi, merkezin oyunlarından seçilenlerle 1–5 tur. Sırayla oynanan oyunlarda herkes aynı bölümü oynar (1.: 3, 2.: 2, 3.: 1 puan); birlikte oynanan oyunlarda kalabalık aileler gruplara ayrılır. Puan tablosu, şampiyon töreni ve kaldığı yerden devam; çevrimiçi bağlantı, reklam ya da kişisel bilgi yok (takma adlar yalnızca cihazda).
+
 | Oyun | Depo |
 |---|---|
 | Yasaklı Kelime | [oyun-yasakli-kelime](https://github.com/taktemurr-ops/oyun-yasakli-kelime) |
