@@ -1,9 +1,9 @@
 Petrecere și Familie reunește 20 jocuri într-o aplicație, toate jucate trecând un singur telefon din mână în mână. Echipele se întrec la Cuvinte Interzise, Cinema Mut, Cine sunt? și Desenează și Ghicește; Săteni și Vampiri și Cine e Spionul? încing masa cu roluri secrete; Quiz în Familie și Degete Rapide aduc patru jucători la un ecran. Numele, echipele, timpul, pachetul de vârstă și cuvintele tale se aleg în lobby.
 
-• Descrie și ghicește: Cuvinte Interzise, Cinema Mut, Desenează și Ghicește, Cine sunt?, Indicii Emoji, Creionul Rupt, Termometrul Indiciilor
+• Descrie și ghicește: Cuvinte Interzise, Cinema Mut, Desenează și Ghicește, Cine sunt?, Indicii Emoji, Creionul Rupt, Termometrul Indiciilor, Un Singur Indiciu
 • Roluri secrete: Săteni și Vampiri, Cine e Spionul?
-• Întrecere pe un ecran: Quiz în Familie, Degete Rapide, Bomba de Cuvinte, Trei în Cinci, Lanțul Memoriei, Țări, Orașe
-• Povești și discuții: Adevăr sau Provocare, Învârte Săgeata, Cine mai degrabă?, Povești Emoji
+• Întrecere pe un ecran: Quiz în Familie, Degete Rapide, Bomba de Cuvinte, Trei în Cinci, Lanțul Memoriei, Țări, Orașe, Duelul Colțurilor
+• Povești și discuții: Adevăr sau Provocare, Învârte Săgeata, Cine mai degrabă?, Povești Emoji, Ce ai alege?, Două Adevăruri, o Minciună
 • Ajutor la masă: Tabela de Scor
 
 Puncte forte

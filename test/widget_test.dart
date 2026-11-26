@@ -27,6 +27,10 @@ void main() {
       'oyun-kim-en-cok',
       'oyun-emoji-hikaye',
       'oyun-skor-tahtasi',
+      'oyun-dort-kisilik-mini-oyunlar',
+      'oyun-hangisini-secerdin',
+      'oyun-tek-ipucu',
+      'oyun-iki-dogru-bir-yalan',
     ]);
     final all = hubConfig.allGames.map((g) => g.gameId).toList();
     expect(all.length, ids.length);

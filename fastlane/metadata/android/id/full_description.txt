@@ -1,9 +1,9 @@
 Pesta dan Keluarga menghimpun 20 permainan dalam satu aplikasi, semuanya dimainkan dengan mengoper satu ponsel. Tim bersaing di Kata Terlarang, Bioskop Bisu, Siapa Aku? dan Gambar dan Tebak; Warga dan Vampir serta Siapa Mata-mata? memanaskan meja dengan peran rahasia; Kuis Keluarga dan Jari Cepat mempertemukan empat pemain di satu layar. Nama, tim, waktu, paket usia, dan kata sendiri dipilih di lobi.
 
-• Jelaskan dan tebak: Kata Terlarang, Bioskop Bisu, Gambar dan Tebak, Siapa Aku?, Petunjuk Emoji, Pena Patah, Pengukur Panas
+• Jelaskan dan tebak: Kata Terlarang, Bioskop Bisu, Gambar dan Tebak, Siapa Aku?, Petunjuk Emoji, Pena Patah, Pengukur Panas, Satu Petunjuk
 • Peran rahasia: Warga dan Vampir, Siapa Mata-mata?
-• Adu di satu layar: Kuis Keluarga, Jari Cepat, Bom Kata, Tiga dalam Lima, Rantai Ingatan, Nama Kota
-• Obrolan dan cerita: Jujur atau Tantangan, Putar Panah, Siapa Paling Mungkin?, Cerita Emoji
+• Adu di satu layar: Kuis Keluarga, Jari Cepat, Bom Kata, Tiga dalam Lima, Rantai Ingatan, Nama Kota, Duel Sudut
+• Obrolan dan cerita: Jujur atau Tantangan, Putar Panah, Siapa Paling Mungkin?, Cerita Emoji, Pilih yang Mana?, Dua Fakta, Satu Bohong
 • Pembantu meja: Papan Skor
 
 Sorotan

@@ -1,9 +1,9 @@
 Párty a Rodina spojuje 20 her v jedné aplikaci a všechny se hrají předáváním jednoho telefonu. Týmy soutěží v Zakázaných slovech, Němém kině, Kdo jsem? a Kresli a Hádej; Vesničané a upíři a Kdo je Špion? rozehřejí stůl tajnými rolemi; Rodinný kvíz a Rychlé prsty posadí čtyři hráče k jedné obrazovce. Jména, týmy, čas, věkovou sadu i vlastní slova volíte v předsálí.
 
-• Popisuj a hádej: Zakázaná slova, Němé kino, Kresli a Hádej, Kdo jsem?, Emoji Nápovědy, Zlomená Tužka, Teploměr Nápověd
+• Popisuj a hádej: Zakázaná slova, Němé kino, Kresli a Hádej, Kdo jsem?, Emoji Nápovědy, Zlomená Tužka, Teploměr Nápověd, Jedna Nápověda
 • Tajné role: Vesničané a upíři, Kdo je Špion?
-• Souboj na jedné obrazovce: Rodinný kvíz, Rychlé Prsty, Slovní Bomba, Tři za Pět, Řetěz Paměti, Město Jméno
-• Povídání a příběhy: Pravda nebo Úkol, Roztoč Šipku, Kdo nejspíš?, Emoji Příběhy
+• Souboj na jedné obrazovce: Rodinný kvíz, Rychlé Prsty, Slovní Bomba, Tři za Pět, Řetěz Paměti, Město Jméno, Souboj Rohů
+• Povídání a příběhy: Pravda nebo Úkol, Roztoč Šipku, Kdo nejspíš?, Emoji Příběhy, Co bys raději?, Dvě Pravdy, Jedna Lež
 • Pomocník u stolu: Tabule skóre
 
 Hlavní přednosti

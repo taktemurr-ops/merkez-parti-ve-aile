@@ -28,5 +28,9 @@ Menüdeki **Aile Turnuvası** (Parti ve Aile merkezinde ana sayfada da): aynı c
 | Kim En Çok? | [oyun-kim-en-cok](https://github.com/taktemurr-ops/oyun-kim-en-cok) |
 | Emoji Hikâye | [oyun-emoji-hikaye](https://github.com/taktemurr-ops/oyun-emoji-hikaye) |
 | Skor Tahtası | [oyun-skor-tahtasi](https://github.com/taktemurr-ops/oyun-skor-tahtasi) |
+| Köşe Kapışması | [oyun-dort-kisilik-mini-oyunlar](https://github.com/taktemurr-ops/oyun-dort-kisilik-mini-oyunlar) |
+| Hangisini Seçerdin? | [oyun-hangisini-secerdin](https://github.com/taktemurr-ops/oyun-hangisini-secerdin) |
+| Tek İpucu | [oyun-tek-ipucu](https://github.com/taktemurr-ops/oyun-tek-ipucu) |
+| İki Doğru Bir Yalan | [oyun-iki-dogru-bir-yalan](https://github.com/taktemurr-ops/oyun-iki-dogru-bir-yalan) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-parti-ve-aile/releases/download/test/merkez-parti-ve-aile.apk

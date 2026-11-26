@@ -7,10 +7,13 @@ import 'package:oyun_casus_kim/oyun_casus_kim.dart';
 import 'package:oyun_cevir_bakalim/oyun_cevir_bakalim.dart';
 import 'package:oyun_ciz_tahmin/oyun_ciz_tahmin.dart';
 import 'package:oyun_dogruluk_cesaret/oyun_dogruluk_cesaret.dart';
+import 'package:oyun_dort_kisilik_mini_oyunlar/oyun_dort_kisilik_mini_oyunlar.dart';
 import 'package:oyun_emoji_hikaye/oyun_emoji_hikaye.dart';
 import 'package:oyun_emoji_ipucu/oyun_emoji_ipucu.dart';
 import 'package:oyun_hafiza_zinciri/oyun_hafiza_zinciri.dart';
+import 'package:oyun_hangisini_secerdin/oyun_hangisini_secerdin.dart';
 import 'package:oyun_hizli_parmak/oyun_hizli_parmak.dart';
+import 'package:oyun_iki_dogru_bir_yalan/oyun_iki_dogru_bir_yalan.dart';
 import 'package:oyun_isi_olcer/oyun_isi_olcer.dart';
 import 'package:oyun_isim_sehir/oyun_isim_sehir.dart';
 import 'package:oyun_kim_en_cok/oyun_kim_en_cok.dart';
@@ -18,6 +21,7 @@ import 'package:oyun_kirik_kalem/oyun_kirik_kalem.dart';
 import 'package:oyun_koylu_vampir/oyun_koylu_vampir.dart';
 import 'package:oyun_sessiz_sinema/oyun_sessiz_sinema.dart';
 import 'package:oyun_skor_tahtasi/oyun_skor_tahtasi.dart';
+import 'package:oyun_tek_ipucu/oyun_tek_ipucu.dart';
 import 'package:oyun_yasakli_kelime/oyun_yasakli_kelime.dart';
 import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
@@ -122,6 +126,10 @@ final hubConfig = HubConfig(
     kimEnCokConfig,
     emojiHikayeConfig,
     skorTahtasiConfig,
+    koseKapismasiConfig,
+    hangisiniSecerdinConfig,
+    tekIpucuConfig,
+    ikiDogruConfig,
   ],
   starters: ['oyun-sessiz-sinema', 'oyun-aile-bilgi-yarismasi', 'oyun-casus-kim'],
   covers: const {
@@ -145,6 +153,10 @@ final hubConfig = HubConfig(
     'oyun-sessiz-sinema': GameCover('mimec'),
     'oyun-skor-tahtasi': GameCover('scorec'),
     'oyun-yasakli-kelime': GameCover('tabuc'),
+    'oyun-dort-kisilik-mini-oyunlar': GameCover("cornersc"),
+    'oyun-hangisini-secerdin': GameCover("dilemmac"),
+    'oyun-tek-ipucu': GameCover("onecluec"),
+    'oyun-iki-dogru-bir-yalan': GameCover("twotruthc"),
   },
   defaultCover: const GameCover('partyc'),
   sections: [
@@ -184,7 +196,7 @@ final hubConfig = HubConfig(
           'Mô tả và đoán',
           'Ilarawan at hulaan',
         ],
-        ids: ['oyun-yasakli-kelime', 'oyun-sessiz-sinema', 'oyun-ciz-tahmin', 'oyun-ben-kimim', 'oyun-emoji-ipucu', 'oyun-kirik-kalem', 'oyun-isi-olcer']),
+        ids: ['oyun-yasakli-kelime', 'oyun-sessiz-sinema', 'oyun-ciz-tahmin', 'oyun-ben-kimim', 'oyun-emoji-ipucu', 'oyun-kirik-kalem', 'oyun-isi-olcer', 'oyun-tek-ipucu']),
     HubSection(
         title: [
           'Gizli roller',
@@ -258,7 +270,7 @@ final hubConfig = HubConfig(
           'Đua trên một màn hình',
           'Labanan sa isang screen',
         ],
-        ids: ['oyun-aile-bilgi-yarismasi', 'oyun-hizli-parmak', 'oyun-bomba-kelime', 'oyun-bes-saniye', 'oyun-hafiza-zinciri', 'oyun-isim-sehir']),
+        ids: ['oyun-aile-bilgi-yarismasi', 'oyun-hizli-parmak', 'oyun-bomba-kelime', 'oyun-bes-saniye', 'oyun-hafiza-zinciri', 'oyun-isim-sehir', 'oyun-dort-kisilik-mini-oyunlar']),
     HubSection(
         title: [
           'Sohbet ve hikâye',
@@ -295,7 +307,7 @@ final hubConfig = HubConfig(
           'Trò chuyện và câu chuyện',
           'Kuwentuhan at kuwento',
         ],
-        ids: ['oyun-dogruluk-cesaret', 'oyun-cevir-bakalim', 'oyun-kim-en-cok', 'oyun-emoji-hikaye']),
+        ids: ['oyun-dogruluk-cesaret', 'oyun-cevir-bakalim', 'oyun-kim-en-cok', 'oyun-emoji-hikaye', 'oyun-hangisini-secerdin', 'oyun-iki-dogru-bir-yalan']),
     HubSection(
         title: [
           'Masa yardımcısı',

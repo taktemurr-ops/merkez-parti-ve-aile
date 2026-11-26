@@ -42,7 +42,7 @@ dependencies:
   oyun_isi_olcer:
     git:
       url: https://github.com/taktemurr-ops/oyun-isi-olcer
-      ref: 6904a0ad049b5ffde79fee112a741fe5f7f2beb8
+      ref: 3c825814d134930d86ed6214732a97115594be16
   oyun_bomba_kelime:
     git:
       url: https://github.com/taktemurr-ops/oyun-bomba-kelime
@@ -95,6 +95,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-skor-tahtasi
       ref: 665f3b70ecd90035d18f5344b0ab3298b19a8f5d
+  oyun_dort_kisilik_mini_oyunlar:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dort-kisilik-mini-oyunlar
+      ref: dbbcef04fff60b63e5acf319d8e91a2f551af302
+  oyun_hangisini_secerdin:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hangisini-secerdin
+      ref: 0c412a809e3408e5bc3a14960a17a7b550fb6ad9
+  oyun_tek_ipucu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tek-ipucu
+      ref: 72aa2398d4161ccd99d71439dd8ed3db3992d5f3
+  oyun_iki_dogru_bir_yalan:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-iki-dogru-bir-yalan
+      ref: d6cf6571b8800860bd83cb2392f50fafd380bdd1
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1

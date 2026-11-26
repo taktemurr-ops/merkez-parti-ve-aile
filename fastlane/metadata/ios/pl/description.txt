@@ -1,9 +1,9 @@
-Imprezy i Rodzina łączy 17 gier w jednej aplikacji, a w każdą gra się, podając sobie jeden telefon. Drużyny rywalizują w Zakazanych Słowach, Kalamburach, Kim jestem? i Rysuj i Zgaduj; Wieśniacy i Wampiry oraz Kto jest Szpiegiem? rozgrzewają stół tajnymi rolami; Rodzinny Quiz i Szybkie Palce sadzają czterech graczy przy jednym ekranie. Imiona, drużyny, czas, zestaw wiekowy i własne słowa wybierasz w poczekalni.
+Imprezy i Rodzina łączy 20 gier w jednej aplikacji, a w każdą gra się, podając sobie jeden telefon. Drużyny rywalizują w Zakazanych Słowach, Kalamburach, Kim jestem? i Rysuj i Zgaduj; Wieśniacy i Wampiry oraz Kto jest Szpiegiem? rozgrzewają stół tajnymi rolami; Rodzinny Quiz i Szybkie Palce sadzają czterech graczy przy jednym ekranie. Imiona, drużyny, czas, zestaw wiekowy i własne słowa wybierasz w poczekalni.
 
-• Opisuj i zgaduj: Zakazane Słowa, Kalambury, Rysuj i Zgaduj, Kim jestem?, Emoji Wskazówki, Złamany Ołówek, Termoskala
+• Opisuj i zgaduj: Zakazane Słowa, Kalambury, Rysuj i Zgaduj, Kim jestem?, Emoji Wskazówki, Złamany Ołówek, Termoskala, Jedna Podpowiedź
 • Tajne role: Wieśniacy i Wampiry, Kto jest Szpiegiem?
-• Wyścig na jednym ekranie: Rodzinny Quiz, Szybkie Palce, Łańcuch Pamięci, Państwa-Miasta
-• Rozmowy i historie: Prawda czy Wyzwanie, Zakręć Strzałką, Emoji Opowieści
+• Wyścig na jednym ekranie: Rodzinny Quiz, Szybkie Palce, Słowna Bomba, Trzy w Pięć, Łańcuch Pamięci, Państwa-Miasta, Bitwa Narożników
+• Rozmowy i historie: Prawda czy Wyzwanie, Zakręć Strzałką, Kto najprędzej?, Emoji Opowieści, Co wolisz?, Dwie Prawdy, Jedno Kłamstwo
 • Pomocnik przy stole: Tablica Wyników
 
 Najważniejsze
